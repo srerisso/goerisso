@@ -1,0 +1,30 @@
+languageCode = "en-us"
+title = "sr erisso"
+baseurl = "http://www.erisso.com/"
+
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+canonifyURLs = true
+
+themesDir = "themes"
+theme = "landing-page-hugo"
+
+# Params del theme hugo-project-page
+[params]
+description = "Building websites the easy way"
+googleAnalytics = "UA-90848183-1"
+
+first_color="#f8f8f8"
+first_border_color="#e7e7e7"
+first_text_color="#333"
+
+second_color="white"
+second_text_color="#333"
+
+header_color="#f8f8f8"
+header_text_color="rgb(51, 51, 51)"
+
+header_link_color="#777"
+header_link_hover_color="rgb(51, 51, 51)"
