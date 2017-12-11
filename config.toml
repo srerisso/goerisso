@@ -29,7 +29,7 @@ title = "sr erisso - web development studio"
   enable = false
 
   [params.mission.images]
-    enable = false
+    enable = true
 
     [[params.mission.images.list]]
       img = "images/img_3.jpg"
@@ -42,15 +42,15 @@ title = "sr erisso - web development studio"
 
   [[params.mission.item]]
     weight = 1
-    name = "marketing"
-    title = "Marketing"
+    name = "web development"
+    title = "Web development"
     subtitle = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione voluptate laborum sapiente officiis molestiaea."
     description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae aliquid aperiam eveniet officia molestiae temporibus beatae dolores dignissimos aspernatur eius doloremque ad, eaque pariatur, repellendus illum, nostrum velit necessitatibus molestias.</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
-    name = "analysis"
-    title = "Resources"
+    name = "database analysis"
+    title = "Databases"
     subtitle = "Quam quasi illum expedita dicta nemo fugit reprehenderit similique! Corporis praesentium magnam sequi."
     description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
@@ -64,7 +64,7 @@ title = "sr erisso - web development studio"
 # Services section
 [params.services]
   enable = false
-  video = true
+  video = false
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "Our Services"
   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
@@ -192,11 +192,11 @@ title = "sr erisso - web development studio"
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
-  enable = false
+  enable = true
   note = "<p><small>&copy; 2017 sr erisso adapted from a beautiful Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
-  github = "#"
-  twitter = "#"
-  facebook = "#"
-  vine = "#"
-  linkedin = "#"
-  instagram = "#"
+  github = "https://github.com/srerisso"
+  twitter = "https://twitter.com/sr_erisso"
+  # facebook = "#"
+  # vine = "#"
+  # linkedin = "#"
+  # instagram = "#"
