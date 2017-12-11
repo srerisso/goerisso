@@ -11,7 +11,7 @@ title = "sr erisso - web development studio"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/banner-bg.jpg"
+  img = "images/banner-bg2.jpg"
   title = "Hand-crafted websites"
   description = "Since 2004"
 
