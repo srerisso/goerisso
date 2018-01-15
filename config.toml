@@ -3,6 +3,7 @@ theme = "hugo-icon"
 baseURL = "http://www.erisso.com"
 languageCode = "en-US"
 title = "sr erisso - web development studio"
+metaDataFormat = "yaml"
 
 # Metadata
 [params]
