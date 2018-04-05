@@ -13,7 +13,7 @@ metaDataFormat = "yaml"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/banner-bg2.jpg"
-  title = "Hand-crafted websites"
+  title = "sr erisso. software services."
   description = "Since 2004"
 
 # Navigation section
